@@ -1,12 +1,12 @@
 # 🌍 Actividad 1 — Big Data
 **Autores:**  
-- Indira Hamdam (Santa Marta, Magdalena, Colombia)  
-- Cristian Vicioso (Medellín, Antioquia, Colombia)  
+- Indira Hamdam (Medellín, Antioquia, Colombia)  
+- Cristian Vicioso  (Santa Marta, Magdalena, Colombia) 
 
 **Materia:** Big Data  
-**Institución:** [Nombre de la universidad o institución educativa]  
-**Docente:** [Nombre del profesor si aplica]  
-**Plataforma utilizada:** Databricks Community Edition (Free)
+**Institución:** I. U. Digital de Antioquia  
+**Docente:** Andres Felipe Callejas Jaramillo  
+**Plataforma utilizada:** Databricks Free Edition
 
 ---
 
