@@ -12,11 +12,9 @@
 
 ## 🧠 Descripción del proyecto
 
-Este proyecto corresponde a la **Actividad 1 de la asignatura Big Data**, en la cual se aplican los conceptos de bases de datos analíticas para diseñar, crear y consultar una base de datos relacional a partir de un conjunto de datos real.  
-
-La problemática seleccionada se centra en el **análisis de la calidad del aire y su relación con la salud pública** en diferentes ciudades de Colombia.  
-
-El objetivo principal es construir una base de datos analítica que permita almacenar, consultar y analizar mediciones ambientales (como PM2.5, PM10, NO₂, temperatura y humedad), junto con indicadores de salud asociados, de modo que se pueda observar la relación entre contaminación atmosférica y casos respiratorios reportados en cada ciudad.
+Este proyecto aplica los principios de Big Data para diseñar y gestionar una base de datos analítica enfocada en el monitoreo de la calidad del aire en ciudades colombianas como Medellín y Santa Marta.
+Utilizando Databricks (Apache Spark), se desarrollan procesos de migración y almacenamiento eficiente de datos ambientales.
+El sistema permite identificar patrones y relaciones entre la contaminación atmosférica y los indicadores de salud, contribuyendo a una toma de decisiones basada en datos.
 
 ---
 
