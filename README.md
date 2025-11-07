@@ -56,8 +56,11 @@ Una ciudad puede tener muchas mediciones ambientales → relación **1:N (uno a 
 
 ## 💻 Estructura del repositorio
 Actividad_1/
+
 ├── Hamdam_Indira_Vicioso_Cristian_Actividad_1.ipynb # Notebook principal
+
 ├── modelo_ERD.png # Diagrama entidad–relación
+
 └── README.md # Este archivo
 
 ---
@@ -86,8 +89,8 @@ Cada sección incluye explicaciones en texto y resultados en código ejecutable.
 
 ## 🔗 Enlace del repositorio
 
-👉 [https://github.com/Lashkmy/Actividad_1](https://github.com/tu_usuario/Actividad_1)
-
+👉 [[[https://github.com/Lashkmy/Actividad_1](https://github.com/Lashkmy/Actividad_1.git)](https://github.com/tu_usuario/Actividad_1)
+](https://github.com/Lashkmy/Actividad_1.git)
 ---
 
 ## ✨ Créditos
