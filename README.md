@@ -89,8 +89,7 @@ Cada sección incluye explicaciones en texto y resultados en código ejecutable.
 
 ## 🔗 Enlace del repositorio
 
-👉 [[[https://github.com/Lashkmy/Actividad_1](https://github.com/Lashkmy/Actividad_1.git)](https://github.com/tu_usuario/Actividad_1)
-](https://github.com/Lashkmy/Actividad_1.git)
+👉 [[https://github.com/Lashkmy/Actividad_1](https://github.com/Lashkmy/Actividad_1.git)](https://github.com/Lashkmy/Actividad_1.git)
 ---
 
 ## ✨ Créditos
