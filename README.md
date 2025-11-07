@@ -55,3 +55,41 @@ Una ciudad puede tener muchas mediciones ambientales → relación **1:N (uno a 
 ---
 
 ## 💻 Estructura del repositorio
+Actividad_1/
+├── Hamdam_Indira_Vicioso_Cristian_Actividad_1.ipynb # Notebook principal
+├── modelo_ERD.png # Diagrama entidad–relación
+└── README.md # Este archivo
+
+---
+
+## 📘 Contenido del Notebook
+
+El notebook contiene las siguientes secciones:
+
+1️⃣ **Definición de la problemática y dataset**  
+2️⃣ **Diseño del modelo entidad–relación (ERD)**  
+3️⃣ **Creación de la base de datos e inserción de datos**  
+4️⃣ **Consultas SQL de verificación y análisis**  
+5️⃣ **Conclusiones**
+
+Cada sección incluye explicaciones en texto y resultados en código ejecutable.
+
+---
+
+## 📊 Consultas de ejemplo
+
+- `SELECT COUNT(*) FROM Medicion_Ambiental;` — Conteo de registros.  
+- `DESCRIBE TABLE Medicion_Ambiental;` — Estructura de columnas.  
+- `SELECT * FROM Medicion_Ambiental WHERE id_ciudad = 1;` — Filtro por ciudad (Medellín).
+
+---
+
+## 🔗 Enlace del repositorio
+
+👉 [https://github.com/Lashkmy/Actividad_1](https://github.com/tu_usuario/Actividad_1)
+
+---
+
+## ✨ Créditos
+
+Proyecto elaborado como parte de la formación en **Big Data**, utilizando herramientas open source y datos públicos de Kaggle.
